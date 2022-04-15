@@ -66,14 +66,13 @@ The following are the documents are included for release:
 
 .^|Terms of Reference - [TOR]
 ^.^|0.3
-^.^|image:Crystal_Clear_mimetype_pdf.png[link=./ITC/TOR.pdf,40,]  image:iconfinder_HTML_Logo_65687.png[link=./ITC/TOR.html,40,]
+^.^|image:Crystal_Clear_mimetype_pdf.png[link=./ITC/ToR.pdf,40,]  image:iconfinder_HTML_Logo_65687.png[link=./ITC/ToR.html,40,]
 ^.^|
 ^.^|
 
 |===
 
 ////
-
 .GitHub Public Release Packages
 [[v1.1GHTable]]
 [cols="4,1",options="header"]
@@ -88,5 +87,4 @@ The following are the documents are included for release:
 
 == Technical Decisions
 Technical Decisions produced by the {iTC-shortname} be found at the link:./TD/tech-dec.html[AppSW-iTC Technical Decisions] page.
-
- ////
+////
