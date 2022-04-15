@@ -1,0 +1,92 @@
+= Common Criteria in the Cloud Technical Working Group
+:showtitle:
+:toc:
+:imagesdir: images
+:icons: font
+:revnumber: 0.3
+:revdate: 2022-04-14
+
+:iTC-longname: Common Criteria in the Cloud WG
+:iTC-shortname: CCitC-WG
+:iTC-website: https://ccinthecloud.github.io/
+:iTC-GitHub: https://github.com/CC-in-the-Cloud/
+
+
+== Introduction
+
+From the CCUF established Working Group, the {iTC-longname} ({iTC-shortname} for short) was formed. The {iTC-shortname} consists of members of Certification Bodies, labs and vendors working together to create requirements for application security testing.
+
+https://github.com/CC-in-the-Cloud Github Repository]
+
+To join the {iTC-shortname}, please join the team on github.
+
+== Current Status
+
+The {itc-shortname} has published the first Public Release of the Essential Security Requirements document as well as the Terms of Reference as of April 14, 2022.
+
+[ditaa, PR_Timeline, png]
+....
+                                  
+    +----------+   +----------+   +----------+   +----------+   +----------+   +----------+
+    |          |   |          |   | Public   |   |          |   |          |   |  cYEL    |
+    | Internal |   |  Public  |   | Review   |   | Proposed |   | Proposed |   | Final    |
+    |  Draft   |-->|  Review  |-->| Draft 1  |-->|  Draft   |-->|  Update  |-->| Document |
+    |          |   |  Draft 1 |   | Update   |   |          |   |          |   | Published|
+    |          |   |  (45d)   |   | (60d)    |   |  (30d)   |   | (10d)    |   |          |
+    +----------+   +----------+   +----------+   +----------+   +----------+   +----------+
+....
+
+The <<Current Documents for Review>> section provides links to the documents under review.
+
+== Current Published Documents
+
+*_Version 0.3*
+
+Publication Date:: April 14, 2022
+// Sunset Date:: Active
+// Retired Date:: Active
+
+The following are the documents are included for release:
+
+.Current Documents
+[[v1.0DocTable]]
+[cols="5,1,1,1,1",options="header"]
+|===
+|Title 
+^.^|Version 
+^.^|Links
+^.^|Latest TD Version
+^.^|Links
+
+.^|Essential Security Requirements - [ESR]
+^.^|0.3
+^.^|image:Crystal_Clear_mimetype_pdf.png[link=./ESR/CC_in_the_Cloud_ESR.pdf,40,]  image:iconfinder_HTML_Logo_65687.png[link=./ESR/CC_in_the_Cloud_ESR.html,40,]
+^.^|
+^.^|
+
+.^|Terms of Reference - [TOR]
+^.^|0.3
+^.^|image:Crystal_Clear_mimetype_pdf.png[link=./ITC/TOR.pdf,40,]  image:iconfinder_HTML_Logo_65687.png[link=./ITC/TOR.html,40,]
+^.^|
+^.^|
+
+|===
+
+////
+
+.GitHub Public Release Packages
+[[v1.1GHTable]]
+[cols="4,1",options="header"]
+|===
+|Title 
+^|Link
+
+.^|cPP + Modules V1.0 Release package
+^|image:GitHub-Mark-64px.png[link=https://github.com/appswcpp/repository/releases/tag/v1.0,40,]
+
+|===
+
+== Technical Decisions
+Technical Decisions produced by the {iTC-shortname} be found at the link:./TD/tech-dec.html[AppSW-iTC Technical Decisions] page.
+
+ ////
