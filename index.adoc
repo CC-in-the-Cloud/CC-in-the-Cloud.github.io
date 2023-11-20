@@ -20,15 +20,15 @@ https://github.com/CC-in-the-Cloud Github Repository
 
 == Join Us
 
-To join the {iTC-shortname}, please complete our enrollment forum [here,link=https://docs.google.com/forms/d/1hQ6c1Zsr7rO3OT6B0GvNPrX5IeC7RPZxjC8Z1XcJQC4].
+To join the {iTC-shortname}, please complete our enrollment forum https://docs.google.com/forms/d/1hQ6c1Zsr7rO3OT6B0GvNPrX5IeC7RPZxjC8Z1XcJQC4,[here].
 
 == ReadMe
 
-After you have enrollment please see our ReadMe [here, link=https://github.com/orgs/CC-in-the-Cloud/discussions/102].
+After you have enrollment please see our ReadMe https://github.com/orgs/CC-in-the-Cloud/discussions/102[here].
 
 == Common Criteria Portal
 
-The CC in the Cloud Working Group is now recognized by the CCDB as a Technical Community. View our CC Portal page [here, https://www.commoncriteriaportal.org/communities/cc_in_the_cloud.cfm]. 
+The CC in the Cloud Working Group is now recognized by the CCDB as a Technical Community. View our CC Portal page https://www.commoncriteriaportal.org/communities/cc_in_the_cloud.cfm[here]. 
 
 == Current Status
 
