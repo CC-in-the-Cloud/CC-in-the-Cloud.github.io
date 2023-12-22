@@ -32,7 +32,7 @@ The CC in the Cloud Working Group is now recognized by the CCDB as a Technical C
 
 == Current Status
 
-The {itc-shortname} has published the first Public Release of the Essential Security Requirements document as well as the Terms of Reference as of April 14, 2022.
+The {itc-shortname} has published the first Public Release of the Essential Security Requirements document as well as the Terms of Reference as of December 22, 2023.
 
 [ditaa, PR_Timeline, png]
 ....
@@ -50,7 +50,7 @@ The <<Current Documents for Review>> section provides links to the documents und
 
 == Current Published Documents
 
-*_Version 1.0*
+*_Version 1.0_*
 
 Publication Date:: December 22, 2023
 // Sunset Date:: Active
