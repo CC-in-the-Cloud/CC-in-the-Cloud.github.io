@@ -4,7 +4,7 @@
 :imagesdir: images
 :icons: font
 :revnumber: 1.0
-:revdate: 2023-22-12
+:revdate: 2024-06-02
 
 :iTC-longname: Common Criteria in the Cloud Technical Community
 :iTC-shortname: CCitC
@@ -32,7 +32,7 @@ The CC in the Cloud Working Group is now recognized by the CCDB as a Technical C
 
 == Current Status
 
-The {itc-shortname} has published the first Public Release of the Essential Security Requirements document as well as the Terms of Reference as of December 22, 2023.
+The {itc-shortname} has published the first Public Release of the Guidance for Cloud Evaluations as of February 6th, 2024.
 
 [ditaa, PR_Timeline, png]
 ....
@@ -52,7 +52,7 @@ The <<Current Documents for Review>> section provides links to the documents und
 
 *_Version 1.0_*
 
-Publication Date:: December 22, 2023
+Publication Date:: February 6th, 2024
 // Sunset Date:: Active
 // Retired Date:: Active
 
@@ -65,6 +65,10 @@ The following are the documents are included for release:
 |Title 
 ^.^|Version 
 ^.^|Links
+
+.^|Guidance for Cloud Evaluations
+^.^|1.0
+^.^|image:Crystal_Clear_mimetype_pdf.png[link=./docs/v1.0/CCiTC_Guidance_For_Cloud_Evals.pdf,40,]  image:iconfinder_HTML_Logo_65687.png[link=./docs/v1.0/CCiTC_Guidance_For_Cloud_Evals.html,40,]
 
 .^|Essential Security Requirements - [ESR]
 ^.^|0.3
