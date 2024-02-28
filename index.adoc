@@ -4,7 +4,7 @@
 :imagesdir: images
 :icons: font
 :revnumber: 1.0
-:revdate: 2024-Feb-06
+:revdate: February-06-2024
 
 :iTC-longname: Common Criteria in the Cloud Technical Community
 :iTC-shortname: CCitC
