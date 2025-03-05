@@ -3,8 +3,8 @@
 :toc:
 :imagesdir: images
 :icons: font
-:revnumber: 1.0
-:revdate: February-06-2024
+:revnumber: 1.1
+:revdate: February-05-2022
 
 :iTC-longname: Common Criteria in the Cloud Technical Community
 :iTC-shortname: CCitC
@@ -50,9 +50,9 @@ The <<Current Documents for Review>> section provides links to the documents und
 
 == Current Published Documents
 
-*_Version 1.0_*
+*_Version 1.1_*
 
-Publication Date:: February 6th, 2024
+Publication Date:: February 5th, 2025
 // Sunset Date:: Active
 // Retired Date:: Active
 
@@ -67,8 +67,8 @@ The following are the documents are included for release:
 ^.^|Links
 
 .^|Guidance for Cloud Evaluations
-^.^|1.0
-^.^|image:Crystal_Clear_mimetype_pdf.png[link=./docs/v1.0/CCiTC_Guidance_For_Cloud_Evals.pdf,40,]  image:iconfinder_HTML_Logo_65687.png[link=./docs/v1.0/CCiTC_Guidance_For_Cloud_Evals.html,40,]
+^.^|1.1
+^.^|image:Crystal_Clear_mimetype_pdf.png[link=./docs/v1.1/CCiTC_Guidance_For_Cloud_Evals.pdf,40,]  image:iconfinder_HTML_Logo_65687.png[link=./docs/v1.1/CCiTC_Guidance_For_Cloud_Evals.html,40,]
 
 .^|Essential Security Requirements - [ESR]
 ^.^|0.3
