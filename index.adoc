@@ -67,7 +67,7 @@ The following are the documents are included for release:
 ^.^|Links
 
 .^|Guidance for Cloud Evaluations
-^.^|1.1
+^.^|1.1a
 ^.^|image:Crystal_Clear_mimetype_pdf.png[link=./docs/v1.1/CCiTC_Guidance_For_Cloud_Evals.pdf,40,]  image:iconfinder_HTML_Logo_65687.png[link=./docs/v1.1a/CCiTC_Guidance_For_Cloud_Evals.html,40,]
 
 .^|Essential Security Requirements - [ESR]
